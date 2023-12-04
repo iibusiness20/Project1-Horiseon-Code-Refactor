@@ -18,7 +18,7 @@ Important reasons to write the code with Semantic HTML:
 - [Review](#project1-horiseon-code-refactor)
 - [Credits](#contributers)
 - [Licence](#licence)
-- [Contact details](#contact details)
+- [Contact details](#contact)
 
 ## Acceptance criteria
 - Semantic HTML elements can be found throughout the source code
