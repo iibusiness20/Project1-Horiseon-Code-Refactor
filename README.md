@@ -56,6 +56,6 @@ Mazin Abed (Senior Tutor) - https://mazinabed.vercel.app/#contact
 ## Licence
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
-## Contact details
+## Contact
 - GitHub user: iibusiness20
 - ilasiulianew@gmail.com
