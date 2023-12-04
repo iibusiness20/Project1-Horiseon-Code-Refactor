@@ -9,7 +9,7 @@ Important reasons to write the code with Semantic HTML:
 - it's easier to read and to decipher the layout
 - it's accesable and readable to visually impaired people
 - it's easier to make changes and apply the CSS for the HTML document that was written for
-- search Engines will read its contents as important keywords to influence the page serach rankings ([MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Semantics))
+- search engines will read its contents as important keywords to influence the page serach rankings ([MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Semantics))
 
 ## Table of Contents
 - [Acceptance criteria](#description-user-story)
@@ -39,8 +39,8 @@ Screenshot for the end result:
 
 ## Review
 
-- *the URL of teh deployed application*
-- *the URL of teh GitHb repository*
+- *the URL of the deployed application*
+- *the URL of the GitHb repository*
 = *screenshot of the deployed/live page*
 
 ## Licence
