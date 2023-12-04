@@ -14,9 +14,11 @@ Important reasons to write the code with Semantic HTML:
 ## Table of Contents
 - [Acceptance criteria](#description-user-story)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Technology](#technology)
 - [Review](#project1-horiseon-code-refactor)
+- [Credits](#contributers)
 - [Licence](#licence)
+- [Contact details](#contact details)
 
 ## Acceptance criteria
 - Semantic HTML elements can be found throughout the source code
@@ -37,11 +39,23 @@ Screenshot for the end result:
 5. For deployment I went to my GitHub repository in the browser and then I selected Settings tab on the right hand side of the page, scrolled down to GitHib Pages section, in the section labeled **Source** I selected the **main** branch as my source.
 6. After a couple of minutes I navigated to [Settings - my GitHub pages (left hand side menu scroll down)](github.com/iibusiness20//Project1-Horison-Code-Refactor/settings/pages) and I saw that the [page has gone live](iibusiness20.github.io/Project1-Horison-Code-Refactor/).
 
-## Review
+## Technology
+- [GitHub](https://github.com/iibusiness20/Project1-Horiseon-Code-Refactor)
+- [GitBash](https://github.com/git-guides/install-git)
+- [GitLab](https://git.bootcampcontent.com/uk-edx-16-week/UK-VIRT-FE-PT-11-2023-U-LOLC-1)
+- [VS Code](https://code.visualstudio.com/download)
 
+## Review
 - *the URL of the deployed application*
 - *the URL of the GitHb repository*
 = *screenshot of the deployed/live page*
 
+## Credits
+Tutor Mazin Abed - https://mazinabed.vercel.app/#contact
+
 ## Licence
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+## Contact details
+- GitHub user: iibusiness20
+- ilasiulianew@gmail.com
