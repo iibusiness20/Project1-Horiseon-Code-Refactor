@@ -27,7 +27,7 @@ Important reasons to write the code with Semantic HTML:
 
 TO BE ADDED Screenshot for the end result
 ```md
-![Horiseon Code Refactor page](./assets/images/Refactor.png)
+![](./assets/images/Refactor.png)
 ```
 
 
