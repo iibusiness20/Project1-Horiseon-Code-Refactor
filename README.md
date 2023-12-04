@@ -25,8 +25,7 @@ Important reasons to write the code with Semantic HTML:
 - Heading attributes fall in sequential order
 - Title elements contain a concise, descriptive title
 
-TO BE ADDED Screenshot for the end result
-
+Screenshot for the end result:
 ![](assets/images/refactor.jpg)
 
 
