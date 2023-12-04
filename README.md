@@ -2,7 +2,7 @@
 Refactor the existing code for web accesability.
 
 ## Description/ User Story?
-For the delivery and acceptance of the The Horiseon Code refactor project, the code needs to be updated with Semantic HTML. The initial code to refactor had "divs" instead of Semantic HTML that follows accessability standards.
+For the delivery and acceptance of the Horiseon Code refactor project, the code needs to be updated with Semantic HTML. The initial code to refactor had "divs" instead of Semantic HTML that follows accessability standards.
 The clearest definition of Semantic HTML is: "A semantic element clearly describes its meaning to both the browser and developer" 
 Using semantic HTML is noted as part of HTML5 standard ([FreeCodeCamp.org](https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/)).
 Important reasons to write the code with Semantic HTML:
