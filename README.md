@@ -27,7 +27,7 @@ Important reasons to write the code with Semantic HTML:
 
 TO BE ADDED Screenshot for the end result
 ```md
-![](/images/refactor.png)
+![](assets/images/refactor.png)
 ```
 
 
