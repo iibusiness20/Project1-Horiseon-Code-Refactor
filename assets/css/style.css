@@ -1,3 +1,5 @@
+To be Submitted 
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +10,8 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Added the following for the header to be displayed as for the challenge requirements: flex, space-between and center*/
+/* Header styles. 
+Added the following for the header to be displayed as for the challenge requirements: flex, space-between and center*/
 header {
     display: flex;
     justify-content: space-between;
@@ -19,12 +22,26 @@ header {
     color: #ffffff;
 }
 
-/* header title to the left */
+/* Title to the left within the header */
 header h1 {
     font-size: 48px;
 }
 
-/*header navigation for the 3 list elements*/
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* Navigation styles */
+header nav {
+    /* Updated styles for the semantic nav element */
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* Styling for the list in the header */
 header nav ul {
     list-style-type: none;
     display: flex;
@@ -47,7 +64,7 @@ p {
     font-size: 16px;
 }
 
-
+/* Styles for the Hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,14 +74,10 @@ p {
     background-position: center;
 }
 
-.float-left {
+/* Group all the .float elements which have the same styles */
+.float-left, .float-right {
     float: left;
     margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .content {
@@ -73,6 +86,7 @@ p {
     margin-left: 20px;
 }
 
+/* Styles for the benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -84,19 +98,19 @@ p {
     background-color: #2589bd;
 }
 
-/*Grouped .benefit elements which have the same 2 attributes */
+/* Grouped .benefit elements which have the same styles */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*Grouped .benefit h3 elements which have the same 2 attributes */
+/* Grouped .benefit h3 elements which have the same styles */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*Grouped .benefit img elements which have the same 3 attributes */
+/*Grouped .benefit img elements which have the same styles */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -125,6 +139,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer styles */
 footer {
     padding: 30px;
     clear: both;
