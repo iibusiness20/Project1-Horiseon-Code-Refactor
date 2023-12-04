@@ -51,7 +51,7 @@ Screenshot for the end result:
 = *screenshot of the deployed/live page*
 
 ## Credits
-Tutor Mazin Abed - https://mazinabed.vercel.app/#contact
+Mazin Abed (Senior Tutor)- https://mazinabed.vercel.app/#contact
 
 ## Licence
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
