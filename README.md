@@ -26,9 +26,8 @@ Important reasons to write the code with Semantic HTML:
 - Title elements contain a concise, descriptive title
 
 TO BE ADDED Screenshot for the end result
-```md
-![page screenshot](assets/images/refactor.jpg)
-```
+
+![](assets/images/refactor.jpg)
 
 
 ## Installation
