@@ -9,7 +9,7 @@ body {
 }
 
 
-.header {
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -19,20 +19,20 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     font-size: 48px;
 }
 
-.header nav ul {
+header nav ul {
     list-style-type: none;
     display: flex;
 }
 
-.header nav ul li {
+header nav ul li {
     margin-left: 25px;
 }
 
-.header nav a {
+header nav a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -123,13 +123,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
