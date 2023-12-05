@@ -48,7 +48,7 @@ Screenshot for the end result Horiseon page:
 
 ## Review
 - *the URL of the deployed application*
-- [GitHub Repository link](https://github.com/iibusiness20/Project1-Horiseon-Code-Refactor#contact)
+- [GitHub Repository link](github.com/iibusiness20/Project1-Horiseon-Code-Refactor#contact)
 
 ## Licence
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
