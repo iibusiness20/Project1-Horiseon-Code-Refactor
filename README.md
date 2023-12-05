@@ -13,6 +13,7 @@ Important reasons to write the code with Semantic HTML:
 
 ## Table of Contents
 - [Acceptance criteria](#description-user-story)
+- [Usage](#usage)
 - [Installation](#installation)
 - [Technology](#technology)
 - [Review](#project1-horiseon-code-refactor)
@@ -27,7 +28,10 @@ Important reasons to write the code with Semantic HTML:
 - Heading attributes fall in sequential order
 - Title elements contain a concise, descriptive title
 
-Screenshot for the end result:
+## Usage
+
+Screenshot for the end result Horiseon page:
+
 ![](assets/images/refactor.jpg)
 
 
@@ -58,4 +62,3 @@ Mazin Abed (Senior Tutor) - https://mazinabed.vercel.app/#contact
 
 ## Contact
 - GitHub user: [iibusiness20](https://github.com/iibusiness20)
-- ilasiulianew@gmail.com
