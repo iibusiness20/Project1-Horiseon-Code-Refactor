@@ -72,7 +72,6 @@ p {
     background-position: center;
 }
 
-/* Group all the .float elements which have the same styles */
 .float-left{
     float: left;
     margin-right: 25px;
