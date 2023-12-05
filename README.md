@@ -1,7 +1,6 @@
 # Project1-Horiseon-Code-Refactor
 Refactor the existing code for web accesability.
 
-
 ## Description
 For the delivery and acceptance of the Horiseon Code refactor project, the code needs to be updated with Semantic HTML. The initial code to refactor had "divs" instead of Semantic HTML that follows accessability standards.
 The clearest definition of Semantic HTML is: "A semantic element clearly describes its meaning to both the browser and developer" 
@@ -12,7 +11,6 @@ Important reasons to write the code with Semantic HTML:
 - it's easier to make changes and apply the CSS for the HTML document that was written for
 - search engines will read its contents as important keywords to influence the page serach rankings ([MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Semantics))
 
-
 ## Table of Contents
 - [Acceptance criteria](#description-user-story)
 - [Usage](#usage)
@@ -22,7 +20,6 @@ Important reasons to write the code with Semantic HTML:
 - [Licence](#licence)
 - [Contact](#contact)
 
-
 ## Acceptance criteria
 - Semantic HTML elements can be found throughout the source code
 - HTML elements follow a logical structure independent of styling and positioning
@@ -30,13 +27,10 @@ Important reasons to write the code with Semantic HTML:
 - Heading attributes fall in sequential order
 - Title elements contain a concise, descriptive title
 
-
 ## Usage
-
 Screenshot for the end result Horiseon page:
 
 ![](assets/images/refactor.jpg)
-
 
 ## Installation
 1. Downloaded the [**starter code**](https://static.fullstack-bootcamp.com/uk-16/activities/01-html-git-github-module/04-code-refactor-lesson/challenge.zip) and unziped the file
@@ -46,23 +40,18 @@ Screenshot for the end result Horiseon page:
 5. For deployment I went to my GitHub repository in the browser and then I selected Settings tab on the right hand side of the page, scrolled down to GitHib Pages section, in the section labeled **Source** I selected the **main** branch as my source.
 6. After a couple of minutes I navigated to [Settings - my GitHub pages (left hand side menu scroll down)](github.com/iibusiness20//Project1-Horison-Code-Refactor/settings/pages) and I saw that the [page has gone live](iibusiness20.github.io/Project1-Horison-Code-Refactor/).
 
-
 ## Technology
 - [GitHub](https://github.com/iibusiness20/Project1-Horiseon-Code-Refactor)
 - [GitBash](https://github.com/git-guides/install-git)
 - [GitLab](https://git.bootcampcontent.com/uk-edx-16-week/UK-VIRT-FE-PT-11-2023-U-LOLC-1)
 - [VS Code](https://code.visualstudio.com/download)
 
-
 ## Review
 - *the URL of the deployed application*
 - *the URL of the GitHb repository*
-= *screenshot of the deployed/live page*
-
 
 ## Licence
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
 
 ## Contact
 - GitHub user: [iibusiness20](https://github.com/iibusiness20)
