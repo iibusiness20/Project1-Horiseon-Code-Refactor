@@ -41,18 +41,17 @@ Screenshot for the end result Horiseon page:
 6. After a couple of minutes I navigated to [Settings - my GitHub pages (left hand side menu scroll down)](github.com/iibusiness20//Project1-Horison-Code-Refactor/settings/pages) and I saw that the [page has gone live](iibusiness20.github.io/Project1-Horison-Code-Refactor/).
 
 ## Technology
-- [GitHub](https://github.com/iibusiness20/Project1-Horiseon-Code-Refactor)
+- [GitHub](https://github.com/iibusiness20/)
 - [GitBash](https://github.com/git-guides/install-git)
 - [GitLab](https://git.bootcampcontent.com/uk-edx-16-week/UK-VIRT-FE-PT-11-2023-U-LOLC-1)
 - [VS Code](https://code.visualstudio.com/download)
 
 ## Review
 - *the URL of the deployed application*
-- [GitHub Repository link](github.com/iibusiness20/Project1-Horiseon-Code-Refactor#contact)
+- [GitHub Repository](https://github.com/iibusiness20/Project1-Horiseon-Code-Refactor)
 
 ## Licence
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
 ## Contact
 - GitHub user: [iibusiness20](https://github.com/iibusiness20)
-add -A
