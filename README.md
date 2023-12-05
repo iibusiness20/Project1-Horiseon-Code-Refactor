@@ -47,8 +47,8 @@ Screenshot for the end result Horiseon page:
 - [VS Code](https://code.visualstudio.com/download)
 
 ## Review
-- *the URL of the deployed application*
-- [GitHub Repository](https://github.com/iibusiness20/Project1-Horiseon-Code-Refactor)
+- [The URL of the deployed application](https://iibusiness20.github.io/Project1-Horiseon-Code-Refactor/#social-media-marketing)
+- [The URL of the GitHub Repository](https://github.com/iibusiness20/Project1-Horiseon-Code-Refactor)
 
 ## Licence
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
