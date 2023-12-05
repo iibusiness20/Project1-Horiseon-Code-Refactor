@@ -10,20 +10,16 @@ body {
 
 /* Header styles. 
 Added the following for the header to be displayed as for the challenge requirements: flex, space-between and center*/
-fised-header {
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: fixed;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.fixed-footer {
-    bottom: 0;
-}
 /* Title to the left within the header */
 header h1 {
     font-size: 48px;
